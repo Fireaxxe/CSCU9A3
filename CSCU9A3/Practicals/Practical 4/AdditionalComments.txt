@@ -1,0 +1,15 @@
+From one of the demonstrators:
+
+"I was guilty of not reading the practical carefully, and so I was confused by what on earth was going on at first 
+with the tree display in the system.out.  As a result, I traced the program through (drawing my own tree as I went - see attached) as what I was
+ seeing didn't match up with what I expected.  And then I realised that the tree was viewed sideways, and it does in fact say this in the practical. 
+ So two things:
+
+1.  Watch out for confused students with that!
+
+2.  I found it really useful to add some nodes of my own and actually go through the 
+printTree method, and all its recursive methods, using System.outs and paper to work out what is going on and draw my own tree step by step
+ (see attached quick photo of my own working).  As part of the checkpoint, it might be worth asking the students to draw something like this so
+ that they have a full understanding of what is going recursively with the program? It would also mean they spend the first 20 minutes actually
+ going through the program and working it out before they get on with the order.  They SHOULD then find the practical very reasonable as the actual
+ code needed is very minimal. 

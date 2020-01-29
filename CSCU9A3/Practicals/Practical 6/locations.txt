@@ -1,0 +1,10 @@
+Kilmarnock	0	0
+Galashiels	100	0
+StAndrews	100	100
+Callander	0	100
+Cumbernauld	25	25
+Stirling	25	75
+Penicuik	75	25
+Kinross	75	75
+Livingston	50	50
+Lauder	125	25
